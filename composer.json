@@ -1,0 +1,120 @@
+{
+    "name": "cu-boulder/d10-tempalte",
+    "description": "Drupal 10 project template for CU Boulder",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://www.drupal.org/project/drupal",
+    "support": {
+        "docs": "https://www.drupal.org/docs/user_guide/en/index.html",
+        "chat": "https://www.drupal.org/node/314178"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+        { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat-profile.git"},
+        { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat-custom-entities.git"},
+        { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat-theme.git"}
+    ],
+    "require": {
+        "composer/installers": "^2.1",
+        "cu-boulder/boulder_d9_base": "dev-main",
+        "cu-boulder/boulder_d9_profile": "dev-main",
+        "cu-boulder/ucb_admin_menus": "dev-main",
+        "cu-boulder/ucb_bootstrap_layouts": "dev-main",
+        "cu-boulder/ucb_campus_news": "dev-main",
+        "cu-boulder/ucb_ck5_plugins": "dev-main",
+        "cu-boulder/ucb_d9_custom_entities": "dev-main",
+        "cu-boulder/ucb_default_content": "dev-main",
+        "cu-boulder/ucb_focal_image_enable": "dev-main",
+        "cu-boulder/ucb_person_title": "dev-main",
+        "cu-boulder/ucb_site_configuration": "dev-main",
+        "cu-boulder/ucb_user_invite": "dev-main",
+        "cweagans/composer-patches": "^1.7",
+        "drupal/admin_toolbar": "^3.0",
+        "drupal/aggregator": "^2.0",
+        "drupal/antibot": "^2.0",
+        "drupal/better_social_sharing_buttons": "^4.0",
+        "drupal/consumer_image_styles": "^4.0",
+        "drupal/core-composer-scaffold": "^10.0",
+        "drupal/core-project-message": "^10.0",
+        "drupal/core-recommended": "^10.0",
+        "drupal/entity_embed": "^1.1",
+        "drupal/externalauth": "^2.0",
+        "drupal/features": "5.0.x-dev@dev",
+        "drupal/field_group": "^3.1",
+        "drupal/focal_point": "^2.0",
+        "drupal/gin": "^3.0@alpha",
+        "drupal/gin_lb": "1.0.x-dev@dev",
+        "drupal/gin_toolbar": "^1.0@beta",
+        "drupal/layout_builder_modal": "^1.1",
+        "drupal/media_library_form_element": "^2.0",
+        "drupal/pantheon_advanced_page_cache": "^2.0",
+        "drupal/paragraphs": "^1.14",
+        "drupal/pathauto": "^1.8",
+        "drupal/simple_sitemap": "^4.1",
+        "drupal/smtp": "^1.0",
+        "drupal/twig_tweak": "^3.1",
+        "drupal/webform": "^6.2",
+        "drush/drush": "^11.5",
+        "wikimedia/composer-merge-plugin": "^2.0"
+    },
+    "require-dev": {
+        "drupal/core-dev": "^10.0"
+    },
+    "conflict": {
+        "drupal/drupal": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true,
+            "drupal/core-composer-scaffold": true,
+            "drupal/core-project-message": true,
+            "phpstan/extension-installer": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "cweagans/composer-patches": true,
+            "wikimedia/composer-merge-plugin": true
+        },
+        "sort-packages": true
+    },
+    "extra": {
+        "drupal-scaffold": {
+            "locations": {
+                "web-root": "web/"
+            }
+        },
+        "installer-paths": {
+            "web/core": ["type:drupal-core"],
+            "web/libraries/{$name}": ["type:drupal-library"],
+            "web/modules/contrib/{$name}": ["type:drupal-module"],
+            "web/profiles/contrib/{$name}": ["type:drupal-profile"],
+            "web/themes/contrib/{$name}": ["type:drupal-theme"],
+            "drush/Commands/contrib/{$name}": ["type:drupal-drush"],
+            "web/modules/custom/{$name}": ["type:drupal-custom-module"],
+            "web/profiles/custom/{$name}": ["type:drupal-custom-profile"],
+            "web/themes/custom/{$name}": ["type:drupal-custom-theme"]
+        },
+        "drupal-core-project-message": {
+            "include-keys": ["homepage", "support"],
+            "post-create-project-cmd-message": [
+                "<bg=blue;fg=white>                                                         </>",
+                "<bg=blue;fg=white>  Congratulations, you’ve installed the Drupal codebase  </>",
+                "<bg=blue;fg=white>  from the drupal/recommended-project template!          </>",
+                "<bg=blue;fg=white>                                                         </>",
+                "",
+                "<bg=yellow;fg=black>Next steps</>:",
+
+                "  * Install the site: https://www.drupal.org/docs/installing-drupal",
+                "  * Read the user guide: https://www.drupal.org/docs/user_guide/en/index.html",
+                "  * Get support: https://www.drupal.org/support",
+                "  * Get involved with the Drupal community:",
+                "      https://www.drupal.org/getting-involved",
+                "  * Remove the plugin that prints this message:",
+                "      composer remove drupal/core-project-message"
+            ]
+        }
+    }
+}
