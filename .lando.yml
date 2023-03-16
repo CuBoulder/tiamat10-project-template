@@ -6,16 +6,15 @@ tooling:
     service: appserver
     cmd: "/app/vendor/bin/drush --root=/app"
   install-site:
-    description: Install A Drupal 9 site with the Testing Profile
+    description: Install Drupal 10 site with the CU Boulder Profile
     service: appserver
     cmd: >
       echo yes | /app/vendor/bin/drush si boulderD9_profile
       --db-url="mysql://lamp:lamp@database:3306/lamp"
-      --site-name="Web Express V2 Test Site"
+      --site-name="Web Express D10 Test Site"
       --account-name="admin" --account-pass="tiamat.test"
       install_configure_form.enable_update_status_module=NULL
       install_configure_form.enable_update_status_emails=NULL &&
-      /app/vendor/bin/drush pmu simplesamlphp_auth &&
       echo "\nLogin with Username: admin Password: tiamat.test" &&
       php -r "echo 'Site URL: ' . json_decode(getenv('LANDO_INFO'), TRUE)['appserver']['urls'][0];" &&
       echo "\n"
@@ -35,9 +34,6 @@ services:
   appserver:
     build:
       - composer install
-  database:
-    run_as_root:
-      - mysql -uroot -e "CREATE DATABASE IF NOT EXISTS drupal9_test; GRANT ALL PRIVILEGES ON drupal9_test.* TO 'lamp'@'%' IDENTIFIED by 'lamp';"
 config:
   php: '8.2'
   composer_version: '2.5.4'
