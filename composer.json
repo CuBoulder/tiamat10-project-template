@@ -24,7 +24,7 @@
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_bootstrap_layouts": "dev-main",
         "cu-boulder/ucb_campus_news": "dev-main",
-        "cu-boulder/ucb_ck5_plugins": "dev-main",
+        "cu-boulder/ucb_ckeditor_plugins": "dev-main",
         "cu-boulder/ucb_d9_custom_entities": "dev-main",
         "cu-boulder/ucb_default_content": "dev-main",
         "cu-boulder/ucb_focal_image_enable": "dev-main",
