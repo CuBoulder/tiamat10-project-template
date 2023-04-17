@@ -1,4 +1,4 @@
-name: tiamat-d10
+name: tiamat10-template
 recipe: lamp 
 tooling:
   drush:
@@ -9,7 +9,7 @@ tooling:
     description: Install Drupal 10 site with the CU Boulder Profile
     service: appserver
     cmd: >
-      echo yes | /app/vendor/bin/drush si boulderD9_profile
+      echo yes | /app/vendor/bin/drush si boulder_profile
       --db-url="mysql://lamp:lamp@database:3306/lamp"
       --site-name="Web Express D10 Test Site"
       --account-name="admin" --account-pass="tiamat.test"
@@ -35,7 +35,7 @@ services:
     build:
       - composer install
 config:
-  php: '8.2'
+  php: '8.1'
   composer_version: '2.5.4'
   webroot: web
   database: mariadb

@@ -13,14 +13,14 @@
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
-        { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat-profile.git"},
+        { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat10-profile.git"},
         { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat-custom-entities.git"},
         { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat-theme.git"}
     ],
     "require": {
         "composer/installers": "^2.1",
         "cu-boulder/boulder_d9_base": "dev-main",
-        "cu-boulder/boulder_d9_profile": "dev-main",
+        "cu-boulder/boulder_profile": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_bootstrap_layouts": "dev-main",
         "cu-boulder/ucb_campus_news": "dev-main",
