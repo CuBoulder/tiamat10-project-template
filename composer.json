@@ -57,6 +57,7 @@
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
         "drupal/simple_sitemap": "^4.1",
+        "drupal/simplesamlphp_auth": "4.x-dev@dev",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
@@ -79,7 +80,8 @@
             "phpstan/extension-installer": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "cweagans/composer-patches": true,
-            "wikimedia/composer-merge-plugin": true
+            "wikimedia/composer-merge-plugin": true,
+            "simplesamlphp/composer-module-installer": true
         },
         "sort-packages": true
     },
