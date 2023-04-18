@@ -1,4 +1,4 @@
-name: tiamat10-template
+name: tiamat10-test
 recipe: lamp 
 tooling:
   drush:
@@ -15,6 +15,7 @@ tooling:
       --account-name="admin" --account-pass="tiamat.test"
       install_configure_form.enable_update_status_module=NULL
       install_configure_form.enable_update_status_emails=NULL &&
+      /app/vendor/bin/drush pmu simplesamlphp_auth &&
       echo "\nLogin with Username: admin Password: tiamat.test" &&
       php -r "echo 'Site URL: ' . json_decode(getenv('LANDO_INFO'), TRUE)['appserver']['urls'][0];" &&
       echo "\n"
