@@ -1,4 +1,4 @@
-name: tiamat10-test
+name: tiamat10
 recipe: lamp 
 tooling:
   drush:
@@ -37,7 +37,7 @@ services:
       - composer install
 config:
   php: '8.1'
-  composer_version: '2.5.4'
+  composer_version: '2.5.8'
   webroot: web
   database: mariadb
   xdebug: false
