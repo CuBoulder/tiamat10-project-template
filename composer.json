@@ -44,7 +44,7 @@
         "drupal/entity_embed": "^1.1",
         "drupal/externalauth": "^2.0",
         "drupal/features": "5.0.x-dev@dev",
-        "drupal/field_group": "^3.1",
+        "drupal/field_group": "^3.1",   
         "drupal/focal_point": "^2.0",
         "drupal/gin": "^3.0@alpha",
         "drupal/gin_lb": "^1.0@RC",
@@ -56,7 +56,6 @@
         "drupal/paragraphs": "^1.14",
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
-        "drupal/shortcode": "^2.0",
         "drupal/simple_sitemap": "^4.1",
         "drupal/simplesamlphp_auth": "4.x-dev@dev",
         "drupal/smtp": "^1.0",
@@ -64,7 +63,7 @@
         "drupal/webform": "^6.2",
         "drush/drush": "^11.5",
         "wikimedia/composer-merge-plugin": "^2.0",
-
+        "cu-boulder/shortcode_fork": "dev-main",
         "cu-boulder/ucb_migration_shortcodes": "dev-main"
 
     },
@@ -93,11 +92,6 @@
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
-            }
-        },
-        "patches": {
-            "drupal/shortcode": {
-                "D10 CKE5 Shortcode Patch": "https://www.drupal.org/files/issues/2023-03-29/shortcode-ckeditor5-3280596-11.patch"     
             }
         },
         "merge-plugin": {
