@@ -56,13 +56,17 @@
         "drupal/paragraphs": "^1.14",
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
+        "drupal/shortcode": "^2.0",
         "drupal/simple_sitemap": "^4.1",
         "drupal/simplesamlphp_auth": "4.x-dev@dev",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
         "drush/drush": "^11.5",
-        "wikimedia/composer-merge-plugin": "^2.0"
+        "wikimedia/composer-merge-plugin": "^2.0",
+
+        "cu-boulder/ucb_migration_shortcodes": "dev-main"
+
     },
     "require-dev": {
         "drupal/core-dev": "^10.0"
@@ -89,6 +93,11 @@
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
+            }
+        },
+        "patches": {
+            "drupal/shortcode": {
+                "D10 CKE5 Shortcode Patch": "https://www.drupal.org/files/issues/2023-03-29/shortcode-ckeditor5-3280596-11.patch"     
             }
         },
         "merge-plugin": {
