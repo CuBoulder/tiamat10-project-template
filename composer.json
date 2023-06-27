@@ -44,7 +44,7 @@
         "drupal/entity_embed": "^1.1",
         "drupal/externalauth": "^2.0",
         "drupal/features": "5.0.x-dev@dev",
-        "drupal/field_group": "^3.1",
+        "drupal/field_group": "^3.1",   
         "drupal/focal_point": "^2.0",
         "drupal/gin": "^3.0@alpha",
         "drupal/gin_lb": "^1.0@RC",
@@ -62,7 +62,10 @@
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
         "drush/drush": "^11.5",
-        "wikimedia/composer-merge-plugin": "^2.0"
+        "wikimedia/composer-merge-plugin": "^2.0",
+        "cu-boulder/shortcode_fork": "dev-main",
+        "cu-boulder/ucb_migration_shortcodes": "dev-main"
+
     },
     "require-dev": {
         "drupal/core-dev": "^10.0"
