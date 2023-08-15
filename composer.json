@@ -54,6 +54,7 @@
         "drupal/layout_builder_modal": "^1.1",
         "drupal/media_library_form_element": "^2.0",
         "drupal/migrate_plus": "^6.0",
+        "drupal/migrate_tools": "^6.0",
         "drupal/pantheon_advanced_page_cache": "^2.0",
         "drupal/paragraphs": "^1.14",
         "drupal/pathauto": "^1.8",
