@@ -255,6 +255,7 @@
         "drupal/gin": "^3.0@RC",
         "drupal/gin_lb": "^1.0@RC",
         "drupal/gin_toolbar": "^1.0@RC",
+        "drupal/hook_event_dispatcher": "^4.0@RC",
         "drupal/layout_builder_modal": "^1.1",
         "drupal/media_library_form_element": "^2.0",
         "drupal/metatag": "^2.0",
