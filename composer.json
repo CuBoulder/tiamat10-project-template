@@ -266,6 +266,7 @@
         "drupal/paragraphs": "^1.14",
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
+        "drupal/scheduler": "^2.0",
         "drupal/simple_sitemap": "^4.1",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
