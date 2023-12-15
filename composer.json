@@ -41,6 +41,22 @@
                 "license": "MIT"
             }
         },
+        "mmenu": {
+            "type": "package",
+            "package": {
+                "name": "mmenu-js/mmenu-js",
+                "version": "9.3.0",
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "mmenu"
+                },
+                "dist": {
+                    "url": "https://github.com/FrDH/mmenu-js/archive/refs/tags/v9.3.0.zip",
+                    "type": "zip"
+                },
+                "license": "CC-BY-NC-4.0"
+            }
+        },
         "jquery.inputmask": {
             "type": "package",
             "package": {
@@ -271,6 +287,7 @@
         "drupal/paragraphs": "^1.14",
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
+        "drupal/responsive_menu": "^5.0@alpha",
         "drupal/scheduler": "^2.0",
         "drupal/simple_sitemap": "^4.1",
         "drupal/smtp": "^1.0",
@@ -283,6 +300,7 @@
         "jquery/select2": "*",
         "jquery/textcounter": "*",
         "jquery/timepicker": "*",
+        "mmenu-js/mmenu-js": "*",
         "popperjs/popperjs": "*",
         "progress-tracker/progress-tracker": "*",
         "signature_pad/signature_pad": "*",
