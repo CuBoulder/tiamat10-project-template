@@ -223,6 +223,7 @@
         "composer/installers": "^2.1",
         "cu-boulder/boulder_base": "dev-main",
         "cu-boulder/boulder_profile": "dev-main",
+        "cu-boulder/express_admin": "dev-main",
         "cu-boulder/shortcode_fork": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_article_author": "dev-main",
