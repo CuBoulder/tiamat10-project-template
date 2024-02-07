@@ -240,6 +240,7 @@
         "cu-boulder/ucb_user_invite": "dev-main",
         "cweagans/composer-patches": "^1.7",
         "drupal/admin_toolbar": "^3.4",
+        "drupal/administerusersbyrole": "^3.4",
         "drupal/aggregator": "^2.0",
         "drupal/antibot": "^2.0",
         "drupal/better_social_sharing_buttons": "^4.0",
