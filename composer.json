@@ -247,9 +247,9 @@
         "drupal/ckeditor5_icons": "1.x-dev@dev",
         "drupal/ckeditor5_paste_filter": "^1.0",
         "drupal/consumer_image_styles": "^4.0",
-        "drupal/core-composer-scaffold": "~10.1.7",
-        "drupal/core-project-message": "~10.1.7",
-        "drupal/core-recommended": "~10.1.7",
+        "drupal/core-composer-scaffold": "~10.2",
+        "drupal/core-project-message": "~10.2",
+        "drupal/core-recommended": "~10.2",
         "drupal/devel": "^5.0",
         "drupal/entity_embed": "^1.1",
         "drupal/externalauth": "^2.0",
@@ -311,6 +311,14 @@
         "sort-packages": true
     },
     "extra": {
+        "patches": {
+            "drupal/core": {
+                "Reusable Patch Beta": "https://www.drupal.org/files/issues/2024-01-23/add_reusable_option_to_inline_block_creation-2999491-141.patch"
+            }
+        },
+        "patchLevel": {
+            "drupal/core": "-p2"
+        },
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
