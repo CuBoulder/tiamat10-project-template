@@ -5,5 +5,13 @@
     "*.profile": "php",
     "*.theme": "php",
     "*.inc": "php"
-  }
+  },
+  "git.autoRepositoryDetection": "subFolders",
+  "git.repositoryScanMaxDepth": 5,
+  "git.repositoryScanIgnoredFolders": [
+    "node_modules",
+    "vendor",
+    "core",
+    "sites"
+  ]
 }
