@@ -1,6 +1,7 @@
 # MacOS Spotlight files
 .DS_Store
 
-# Drupal install files
+# Composer / Drupal install files
+composer.lock
 vendor/
 web/
