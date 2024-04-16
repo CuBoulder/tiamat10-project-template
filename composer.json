@@ -266,6 +266,7 @@
         "drupal/menu_block": "^1.10",
         "drupal/menu_firstchild": "^2.1",
         "drupal/metatag": "^2.0",
+        "drupal/migrate_devel": "^2.3",
         "drupal/migrate_plus": "^6.0",
         "drupal/migrate_tools": "^6.0",
         "drupal/pantheon_advanced_page_cache": "^2.0",
