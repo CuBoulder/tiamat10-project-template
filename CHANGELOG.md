@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Adding in migrate_devel module for migration development
+  Adding in migrate_devel module for migration development
+---
+
 - ### Adds `CHANGELOG.md`, workflows, and other housekeeping files
   Resolves CuBoulder/tiamat10-project-template#38
 ---
