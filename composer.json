@@ -216,6 +216,18 @@
                 },
                 "license": "MIT"
             }
+        },
+        "anchor": {
+            "type": "package",
+            "package": {
+                "name": "northernco/ckeditor5-anchor-drupal",
+                "version": "0.5.0",
+                "type": "drupal-library",
+                "dist": {
+                "url": "https://registry.npmjs.org/@northernco/ckeditor5-anchor-drupal/-/ckeditor5-anchor-drupal-0.5.0.tgz",
+                "type": "tar"
+                }
+            }
         }
     },
     "require": {
@@ -241,6 +253,7 @@
         "drupal/admin_toolbar": "^3.4",
         "drupal/administerusersbyrole": "^3.4",
         "drupal/aggregator": "^2.0",
+        "drupal/anchor_link": "^3.0@alpha",
         "drupal/antibot": "^2.0",
         "drupal/better_social_sharing_buttons": "^4.0",
         "drupal/ckeditor5_icons": "1.x-dev@dev",
@@ -287,6 +300,7 @@
         "jquery/select2": "*",
         "jquery/textcounter": "*",
         "jquery/timepicker": "*",
+        "northernco/ckeditor5-anchor-drupal": "^0.5.0",
         "popperjs/popperjs": "*",
         "progress-tracker/progress-tracker": "*",
         "signature_pad/signature_pad": "*",
