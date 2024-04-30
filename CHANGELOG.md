@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Removes the Devel contrib module
+  CuBoulder/tiamat10-profile#108
+  
+  Sister PR in: [tiamat10-profile](https://github.com/CuBoulder/tiamat10-profile/pull/115)
+---
+
 - ### Adding in migrate_devel module for migration development
   Adding in migrate_devel module for migration development
 ---
