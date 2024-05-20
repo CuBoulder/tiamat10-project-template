@@ -289,6 +289,7 @@
         "drupal/scheduler": "^2.0",
         "drupal/shortcode": "^2.0",
         "drupal/simple_sitemap": "^4.1",
+        "drupal/simplesamlphp_auth": "^4.0",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
@@ -300,9 +301,11 @@
         "jquery/textcounter": "*",
         "jquery/timepicker": "*",
         "northernco/ckeditor5-anchor-drupal": "^0.5.0",
+        "pantheon-systems/pantheon_domain_masking": "^2.0",
         "popperjs/popperjs": "*",
         "progress-tracker/progress-tracker": "*",
         "signature_pad/signature_pad": "*",
+        "simplesamlphp/simplesamlphp": "^2.2",
         "tabby/tabby": "*",
         "tippyjs/tippyjs": "*"
     },
@@ -322,7 +325,8 @@
             "phpstan/extension-installer": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "cweagans/composer-patches": true,
-            "php-http/discovery": true
+            "php-http/discovery": true,
+            "simplesamlphp/composer-module-installer": true
         },
         "sort-packages": true
     },

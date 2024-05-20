@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Adding in SAML modules as well as Pantheon Domain Masking module
+  New modules needed for Express in production on Pantheon.  
+---
+
 - ### Adds Anchor CKEditor5 Plugin
   Adds contrib module for handling CK5 Anchor tags
   
