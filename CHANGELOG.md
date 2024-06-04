@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Project Template Updates
+  Bumping versions of Composer ~~and PHP~~
+  
+  Adding in command to uninstall SAML on new install to make local development easier.  
+---
+
 - ### Adds captcha v3
   Adds captcha v3 to project template
   
