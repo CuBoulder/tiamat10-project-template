@@ -284,6 +284,7 @@
         "drupal/pantheon_advanced_page_cache": "^2.0",
         "drupal/paragraphs": "^1.14",
         "drupal/pathauto": "^1.8",
+        "drupal/recaptcha_v3": "^2.0",
         "drupal/redirect": "^1.8",
         "drupal/responsive_preview": "^2.1",
         "drupal/scheduler": "^2.0",

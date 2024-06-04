@@ -9,6 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Adds captcha v3
+  Adds captcha v3 to project template
+  
+  Includes:
+  - `profile` => https://github.com/CuBoulder/tiamat10-profile/pull/138
+  - `project-template` => https://github.com/CuBoulder/tiamat10-project-template/pull/45
+  
+  Resolves https://github.com/CuBoulder/tiamat-theme/issues/617
+---
+
 - ### Adding in SAML modules as well as Pantheon Domain Masking module
   New modules needed for Express in production on Pantheon.  
 ---
