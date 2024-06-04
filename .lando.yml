@@ -36,7 +36,7 @@ services:
     build:
       - composer install
 config:
-  php: '8.3'
+  php: '8.2'
   composer_version: '2.7.6'
   webroot: web
   database: mariadb
