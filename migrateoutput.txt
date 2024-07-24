@@ -1,0 +1,818 @@
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (0/min) - done with 'express_externalredirects'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (611.3/min) - done with 'express_files_documents'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (3926.7/min) - done with 'express_internalredirects'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (892.1/min) - done with 'express_media_documents'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1305/min) - done with 'express_taxonomy_terms_category'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1392.2/min) - done with 'express_taxonomy_terms_tags'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (199.7/min) - done with 'express_beans_article_feature'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_beans_article_grid'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (769.2/min) - done with 'express_beans_article_slider'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (1049/min) - done with 'express_beans_articles'
+
+  1/74 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   1%
+  8/74 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  10%
+ 15/74 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 23/74 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  31%
+ 30/74 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 37/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 45/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  60%
+ 52/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  70%
+ 60/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 67/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  90%
+ 74/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 74 items (74 created, 0 updated, 0 failed, 0 ignored) in 0.4 seconds (11183.6/min) - done with 'express_files_images'
+
+  1/74 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   1%
+  8/74 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  10%
+ 15/74 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 23/74 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  31%
+ 30/74 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 37/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 45/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  60%
+ 52/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  70%
+ 60/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 67/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  90%
+ 74/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 74 items (74 created, 0 updated, 0 failed, 0 ignored) in 1.9 seconds (2282.6/min) - done with 'express_media_images'
+
+  1/62 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   1%
+  7/62 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  11%
+ 13/62 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 19/62 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  30%
+ 25/62 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 31/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 38/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  61%
+ 44/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  70%
+ 50/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  80%
+ 56/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  90%
+ 62/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 62 items (62 created, 0 updated, 0 failed, 0 ignored) in 0.6 seconds (5865.7/min) - done with 'express_beans_block'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (215/min) - done with 'express_webform'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (0/min) - done with 'express_beans_block_wrapper'
+
+  1/12 [▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░]   8%
+  2/12 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+  3/12 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+  4/12 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+  5/12 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  41%
+  6/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+  8/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+  9/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 10/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 11/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  91%
+ 12/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 12 items (12 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (4318.6/min) - done with 'express_beans_content_row_field_callouts_row_layout_content'
+
+ 1/4 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 2/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 3/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 4/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 4 items (4 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (1151.2/min) - done with 'express_beans_content_row'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (0/min) - done with 'express_beans_content_sequence_field_cont_seq_content'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (789.8/min) - done with 'express_beans_content_sequence'
+
+ 1/5 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 2/5 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 3/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  60%
+ 4/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  80%
+ 5/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 5 items (5 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (3370.8/min) - done with 'express_beans_expandable_field_expandable_section'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (865.1/min) - done with 'express_beans_expandable'
+
+  1/22 [▓░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4%
+  3/22 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  13%
+  5/22 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  22%
+  7/22 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  31%
+  9/22 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 11/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 14/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  63%
+ 16/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  72%
+ 18/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 20/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  90%
+ 22/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 22 items (22 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (5887.3/min) - done with 'express_beans_feature_callout_field_callouts'
+
+  1/14 [▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░]   7%
+  2/14 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  14%
+  3/14 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  21%
+  5/14 [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░]  35%
+  6/14 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  42%
+  7/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+  9/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  64%
+ 10/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  71%
+ 12/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  85%
+ 13/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  92%
+ 14/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 14 items (14 created, 0 updated, 0 failed, 0 ignored) in 0.4 seconds (2251.7/min) - done with 'express_beans_feature_callout'
+
+ 1/8 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  12%
+ 2/8 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 3/8 [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░]  37%
+ 4/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 5/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  62%
+ 6/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 7/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  87%
+ 8/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 8 items (8 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (2963.7/min) - done with 'express_beans_hero_unit'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (798.8/min) - done with 'express_beans_localist_events'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1392/min) - done with 'express_taxonomy_terms_department'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1407.5/min) - done with 'express_taxonomy_terms_person_type'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_taxonomy_terms_people_filter_1'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_taxonomy_terms_people_filter_2'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_taxonomy_terms_people_filter_3'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.4 seconds (467.7/min) - done with 'express_nodes_person'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (0/min) - done with 'express_beans_people_list_block'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (2165.3/min) - done with 'express_beans_slider_slide'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (589.4/min) - done with 'express_beans_slider'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1406.1/min) - done with 'express_beans_social_links'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 1.3 seconds (89.4/min) - done with 'express_beans_video_hero_unit_field_background_media'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1778.6/min) - done with 'express_beans_video_hero_unit'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (120.1/min) - done with 'express_beans_video_reveal_video'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1057.5/min) - done with 'express_beans_video_reveal'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (3730.2/min) - done with 'express_nodes_article_paragraph_media'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (2371.7/min) - done with 'express_nodes_article_paragraph'
+
+ 1/4 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 2/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 3/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 4/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 4 items (4 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (1597.4/min) - done with 'express_taxonomy_terms_byline'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (793.5/min) - done with 'express_nodes_article'
+
+  1/18 [▓░░░░░░░░░░░░░░░░░░░░░░░░░░░]   5%
+  2/18 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  11%
+  4/18 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  22%
+  6/18 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+  8/18 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  44%
+  9/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 11/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  61%
+ 13/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  72%
+ 15/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 17/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  94%
+ 18/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 18 items (18 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (5589.2/min) - done with 'express_users'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (715.6/min) - done with 'express_nodes_article_list_page'
+
+ 1/5 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 2/5 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 3/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  60%
+ 4/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  80%
+ 5/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 5 items (5 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (2136.3/min) - done with 'express_taxonomy_terms_collection_categories'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1406.7/min) - done with 'express_taxonomy_terms_collection_type'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83% [warning] array_flip(): Can only flip string and integer values, entry skipped EntityStorageBase.php:278
+
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (1299.5/min) - done with 'express_nodes_collection_item'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1205.8/min) - done with 'express_beans_collection_grid_categories'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (342.8/min) - done with 'express_beans_collection_grid'
+
+  1/28 [▓░░░░░░░░░░░░░░░░░░░░░░░░░░░]   3%
+  3/28 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  10%
+  6/28 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  21% [warning] array_flip(): Can only flip string and integer values, entry skipped EntityStorageBase.php:278
+
+  9/28 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  32%
+ 12/28 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  42%
+ 14/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 17/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  60%
+ 20/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  71% [warning] array_flip(): Can only flip string and integer values, entry skipped EntityStorageBase.php:278
+
+ 23/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  82%
+ 26/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  92%
+ 28/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 28 items (28 created, 0 updated, 0 failed, 0 ignored) in 4.7 seconds (357.1/min) - done with 'express_nodes_page'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (232.7/min) - done with 'express_nodes_people_list_page'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_nodes_section_page'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1328.2/min) - done with 'express_nodes_photo_gallery_image_gallery'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (358.2/min) - done with 'express_nodes_photo_gallery'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (0/min) - done with 'express_webform_submission'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.6 seconds (106.9/min) - done with 'express_nodes_webform'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (457.5/min) - done with 'express_nodes_class_note'
+
+ 1/7 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  14%
+ 2/7 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  28%
+ 3/7 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  42%
+ 4/7 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  57%
+ 5/7 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  71%
+ 6/7 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  85%
+ 7/7 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 7 items (7 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (3966/min) - done with 'express_nodes_faqs_qa'
+string(34) "Section Title FAQ PAGE (Section 1)"
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%string(18) "Second FAQ Section"
+
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%string(8) "Just one"
+
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1267.5/min) - done with 'express_nodes_faqs_collection'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (177.2/min) - done with 'express_nodes_faqs'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (450.2/min) - done with 'express_nodes_issue_section'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (207.8/min) - done with 'express_nodes_issue'
+
+  1/16 [▓░░░░░░░░░░░░░░░░░░░░░░░░░░░]   6%
+  2/16 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  12%
+  4/16 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+  5/16 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  31%
+  7/16 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  43%
+  8/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 10/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  62%
+ 12/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 13/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 15/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  93%
+ 16/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 16 items (16 created, 0 updated, 0 failed, 0 ignored) in 0.4 seconds (2595.4/min) - done with 'express_nodes_newsletter_section_article'
+
+ 1/5 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 2/5 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 3/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  60%
+ 4/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  80%
+ 5/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 5 items (5 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (1036.6/min) - done with 'express_nodes_newsletter_section_content'
+
+ 1/8 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  12%
+ 2/8 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 3/8 [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░]  37%
+ 4/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 5/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  62%
+ 6/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 7/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  87%
+ 8/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 8 items (8 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (972.1/min) - done with 'express_nodes_newsletter_section'
+
+ 1/4 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 2/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 3/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 4/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 4 items (4 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (2839.9/min) - done with 'express_nodes_newsletter_text_block'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (404.7/min) - done with 'express_taxonomy_terms_newsletter'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.6 seconds (318.1/min) - done with 'express_nodes_newsletter'
+
+  1/37 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2%
+  4/37 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  10%
+  8/37 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  21%
+ 12/37 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  32%
+ 15/37 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 19/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  51%
+ 23/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  62%
+ 26/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  70%
+ 30/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 34/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  91%
+ 37/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 37 items (37 created, 0 updated, 0 failed, 0 ignored) in 1.7 seconds (1290.6/min) - done with 'express_mainmenu_menulinks'
+ [error]  Message: Could not retrieve the oEmbed resource.
+ 
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (0/min) - done with 'express_externalredirects'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (619.2/min) - done with 'express_files_documents'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (4567.4/min) - done with 'express_internalredirects'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (773.1/min) - done with 'express_media_documents'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1376.4/min) - done with 'express_taxonomy_terms_category'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1424.2/min) - done with 'express_taxonomy_terms_tags'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (423/min) - done with 'express_beans_article_feature'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_beans_article_grid'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (814.3/min) - done with 'express_beans_article_slider'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (1122.1/min) - done with 'express_beans_articles'
+
+  1/74 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   1%
+  8/74 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  10%
+ 15/74 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 23/74 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  31%
+ 30/74 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 37/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 45/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  60%
+ 52/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  70%
+ 60/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 67/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  90%
+ 74/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 74 items (74 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (9654.5/min) - done with 'express_files_images'
+
+  1/74 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   1%
+  8/74 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  10%
+ 15/74 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 23/74 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  31%
+ 30/74 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 37/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 45/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  60%
+ 52/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  70%
+ 60/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 67/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  90%
+ 74/74 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 74 items (74 created, 0 updated, 0 failed, 0 ignored) in 1.8 seconds (2400.1/min) - done with 'express_media_images'
+
+  1/62 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   1%
+  7/62 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  11%
+ 13/62 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 19/62 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  30%
+ 25/62 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 31/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 38/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  61%
+ 44/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  70%
+ 50/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  80%
+ 56/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  90%
+ 62/62 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 62 items (62 created, 0 updated, 0 failed, 0 ignored) in 0.6 seconds (6369.5/min) - done with 'express_beans_block'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.6 seconds (95.5/min) - done with 'express_webform'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (0/min) - done with 'express_beans_block_wrapper'
+
+  1/12 [▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░]   8%
+  2/12 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+  3/12 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+  4/12 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+  5/12 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  41%
+  6/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+  8/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+  9/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 10/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 11/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  91%
+ 12/12 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 12 items (12 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (4484.9/min) - done with 'express_beans_content_row_field_callouts_row_layout_content'
+
+ 1/4 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 2/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 3/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 4/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 4 items (4 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (1193/min) - done with 'express_beans_content_row'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_beans_content_sequence_field_cont_seq_content'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (805.7/min) - done with 'express_beans_content_sequence'
+
+ 1/5 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 2/5 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 3/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  60%
+ 4/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  80%
+ 5/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 5 items (5 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (3506.3/min) - done with 'express_beans_expandable_field_expandable_section'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1005.4/min) - done with 'express_beans_expandable'
+
+  1/22 [▓░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4%
+  3/22 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  13%
+  5/22 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  22%
+  7/22 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  31%
+  9/22 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 11/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 14/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  63%
+ 16/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  72%
+ 18/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 20/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  90%
+ 22/22 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 22 items (22 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (6206.8/min) - done with 'express_beans_feature_callout_field_callouts'
+
+  1/14 [▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░]   7%
+  2/14 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  14%
+  3/14 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  21%
+  5/14 [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░]  35%
+  6/14 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  42%
+  7/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+  9/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  64%
+ 10/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  71%
+ 12/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  85%
+ 13/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  92%
+ 14/14 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 14 items (14 created, 0 updated, 0 failed, 0 ignored) in 0.4 seconds (2006.8/min) - done with 'express_beans_feature_callout'
+
+ 1/8 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  12%
+ 2/8 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 3/8 [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░]  37%
+ 4/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 5/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  62%
+ 6/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 7/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  87%
+ 8/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 8 items (8 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (3116.1/min) - done with 'express_beans_hero_unit'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (817.9/min) - done with 'express_beans_localist_events'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1444.5/min) - done with 'express_taxonomy_terms_department'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1445.8/min) - done with 'express_taxonomy_terms_person_type'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_taxonomy_terms_people_filter_1'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_taxonomy_terms_people_filter_2'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_taxonomy_terms_people_filter_3'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.4 seconds (483/min) - done with 'express_nodes_person'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (0/min) - done with 'express_beans_people_list_block'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (2285.4/min) - done with 'express_beans_slider_slide'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (616.6/min) - done with 'express_beans_slider'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1469.7/min) - done with 'express_beans_social_links'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.8 seconds (150.3/min) - done with 'express_beans_video_hero_unit_field_background_media'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1897.8/min) - done with 'express_beans_video_hero_unit'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (231.6/min) - done with 'express_beans_video_reveal_video'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1124.9/min) - done with 'express_beans_video_reveal'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (3862.7/min) - done with 'express_nodes_article_paragraph_media'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (2423.8/min) - done with 'express_nodes_article_paragraph'
+
+ 1/4 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 2/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 3/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 4/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 4 items (4 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1635/min) - done with 'express_taxonomy_terms_byline'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.4 seconds (883.9/min) - done with 'express_nodes_article'
+
+  1/18 [▓░░░░░░░░░░░░░░░░░░░░░░░░░░░]   5%
+  2/18 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  11%
+  4/18 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  22%
+  6/18 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+  8/18 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  44%
+  9/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 11/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  61%
+ 13/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  72%
+ 15/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 17/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  94%
+ 18/18 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 18 items (18 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (4100.9/min) - done with 'express_users'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83%
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (729.9/min) - done with 'express_nodes_article_list_page'
+
+ 1/5 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 2/5 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 3/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  60%
+ 4/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  80%
+ 5/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 5 items (5 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (2209.1/min) - done with 'express_taxonomy_terms_collection_categories'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1454.2/min) - done with 'express_taxonomy_terms_collection_type'
+
+ 1/6 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  16%
+ 2/6 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 3/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 4/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 5/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  83% [warning] array_flip(): Can only flip string and integer values, entry skipped EntityStorageBase.php:278
+
+ 6/6 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 6 items (6 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (1151.8/min) - done with 'express_nodes_collection_item'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1241.3/min) - done with 'express_beans_collection_grid_categories'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.2 seconds (352.2/min) - done with 'express_beans_collection_grid'
+
+  1/28 [▓░░░░░░░░░░░░░░░░░░░░░░░░░░░]   3%
+  3/28 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  10%
+  6/28 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  21% [warning] array_flip(): Can only flip string and integer values, entry skipped EntityStorageBase.php:278
+
+  9/28 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  32%
+ 12/28 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  42%
+ 14/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 17/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  60%
+ 20/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  71% [warning] array_flip(): Can only flip string and integer values, entry skipped EntityStorageBase.php:278
+
+ 23/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  82%
+ 26/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  92%
+ 28/28 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 28 items (28 created, 0 updated, 0 failed, 0 ignored) in 4.4 seconds (380.4/min) - done with 'express_nodes_page'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (238.5/min) - done with 'express_nodes_people_list_page'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (0/min) - done with 'express_nodes_section_page'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1386/min) - done with 'express_nodes_photo_gallery_image_gallery'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (351/min) - done with 'express_nodes_photo_gallery'
+
+ [notice] Processed 0 items (0 created, 0 updated, 0 failed, 0 ignored) in 0 seconds (0/min) - done with 'express_webform_submission'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (110/min) - done with 'express_nodes_webform'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (465.3/min) - done with 'express_nodes_class_note'
+
+ 1/7 [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░]  14%
+ 2/7 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  28%
+ 3/7 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  42%
+ 4/7 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  57%
+ 5/7 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  71%
+ 6/7 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  85%
+ 7/7 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 7 items (7 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (4199.6/min) - done with 'express_nodes_faqs_qa'
+string(34) "Section Title FAQ PAGE (Section 1)"
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%string(18) "Second FAQ Section"
+
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%string(8) "Just one"
+
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (1298.3/min) - done with 'express_nodes_faqs_collection'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (199.9/min) - done with 'express_nodes_faqs'
+
+ 1/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 2/2 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 2 items (2 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (461.3/min) - done with 'express_nodes_issue_section'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (207.9/min) - done with 'express_nodes_issue'
+
+  1/16 [▓░░░░░░░░░░░░░░░░░░░░░░░░░░░]   6%
+  2/16 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  12%
+  4/16 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+  5/16 [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░]  31%
+  7/16 [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]  43%
+  8/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 10/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  62%
+ 12/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 13/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 15/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  93%
+ 16/16 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 16 items (16 created, 0 updated, 0 failed, 0 ignored) in 0.4 seconds (2642.2/min) - done with 'express_nodes_newsletter_section_article'
+
+ 1/5 [▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░]  20%
+ 2/5 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 3/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  60%
+ 4/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  80%
+ 5/5 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 5 items (5 created, 0 updated, 0 failed, 0 ignored) in 0.3 seconds (1060.5/min) - done with 'express_nodes_newsletter_section_content'
+
+ 1/8 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  12%
+ 2/8 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 3/8 [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░]  37%
+ 4/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 5/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  62%
+ 6/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 7/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  87%
+ 8/8 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 8 items (8 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (979.7/min) - done with 'express_nodes_newsletter_section'
+
+ 1/4 [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]  25%
+ 2/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  50%
+ 3/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░]  75%
+ 4/4 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 4 items (4 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (3044.1/min) - done with 'express_nodes_newsletter_text_block'
+
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 1 item (1 created, 0 updated, 0 failed, 0 ignored) in 0.1 seconds (423.4/min) - done with 'express_taxonomy_terms_newsletter'
+
+ 1/3 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  33%
+ 2/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  66%
+ 3/3 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 3 items (3 created, 0 updated, 0 failed, 0 ignored) in 0.5 seconds (337.7/min) - done with 'express_nodes_newsletter'
+
+  1/37 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2%
+  4/37 [▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░]  10%
+  8/37 [▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░]  21%
+ 12/37 [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░]  32%
+ 15/37 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]  40%
+ 19/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░]  51%
+ 23/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  62%
+ 26/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  70%
+ 30/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  81%
+ 34/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  91%
+ 37/37 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ [notice] Processed 37 items (37 created, 0 updated, 0 failed, 0 ignored) in 1.7 seconds (1328.3/min) - done with 'express_mainmenu_menulinks'
+ [error]  Message: Could not retrieve the oEmbed resource.
+ 
