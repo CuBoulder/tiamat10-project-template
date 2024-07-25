@@ -308,7 +308,6 @@
         "popperjs/popperjs": "*",
         "progress-tracker/progress-tracker": "*",
         "signature_pad/signature_pad": "*",
-        "simplehtmldom/simplehtmldom": "^2.0@RC",
         "simplesamlphp/simplesamlphp": "^2.2",
         "tabby/tabby": "*",
         "tippyjs/tippyjs": "*"
