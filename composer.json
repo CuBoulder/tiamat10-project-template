@@ -290,7 +290,7 @@
         "drupal/redirect": "^1.8",
         "drupal/responsive_preview": "^2.1",
         "drupal/scheduler": "^2.0",
-        "drupal/shortcode": "^2.0",
+        "drupal/shortcode": "2.0.2",
         "drupal/simple_sitemap": "^4.1",
         "drupal/simplesamlphp_auth": "^4.0",
         "drupal/smtp": "^1.0",
