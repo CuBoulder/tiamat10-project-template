@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Adding in entity_embed patch 
+  Adding in entity_embed patch.  
+---
+
 - ### Adds the CKEditor 5 Bootstrap Accordion module
   This update:
   - Adds the [CKEditor 5 Bootstrap Accordion](https://www.drupal.org/project/ckeditor5_bootstrap_accordion) module.
