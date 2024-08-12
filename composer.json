@@ -243,6 +243,7 @@
         "cu-boulder/ucb_ckeditor_plugins": "dev-main",
         "cu-boulder/ucb_custom_entities": "dev-main",
         "cu-boulder/ucb_default_content": "dev-main",
+        "cu-boulder/ucb_drush_commands": "dev-main",
         "cu-boulder/ucb_focal_image_enable": "dev-main",
         "cu-boulder/ucb_migration_shortcodes": "dev-main",
         "cu-boulder/ucb_person_title": "dev-main",
