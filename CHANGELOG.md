@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Remove Entity Embed Patch
+  No longer needed as they reverted the change in the parent Entity module.  
+  
+  Also bumping PHP to 8.3 
+---
+
 - ### Adding in entity_embed patch 
   Adding in entity_embed patch.  
 ---
