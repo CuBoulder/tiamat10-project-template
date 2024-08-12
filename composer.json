@@ -337,10 +337,7 @@
         "patches": {
             "drupal/core": {
                 "Reusable Patch Beta": "https://www.drupal.org/files/issues/2024-01-23/add_reusable_option_to_inline_block_creation-2999491-141.patch"
-            },
-        "drupal/entity_embed":{
-               "patch": "https://www.drupal.org/files/issues/2024-08-07/entity_embed-embed_constructor-3466609-8.patch"
-           }
+            }
         },
         "patchLevel": {
             "drupal/core": "-p2"
