@@ -248,6 +248,7 @@
         "cu-boulder/ucb_migration_shortcodes": "dev-main",
         "cu-boulder/ucb_person_title": "dev-main",
         "cu-boulder/ucb_site_configuration": "dev-main",
+        "cu-boulder/ucb_styled_block": "dev-main",
         "cu-boulder/ucb_third_party_libraries": "dev-main",
         "cu-boulder/ucb_user_invite": "dev-main",
         "cweagans/composer-patches": "^1.7",
