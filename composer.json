@@ -245,6 +245,7 @@
         "cu-boulder/ucb_default_content": "dev-main",
         "cu-boulder/ucb_drush_commands": "dev-main",
         "cu-boulder/ucb_focal_image_enable": "dev-main",
+        "cu-boulder/ucb_linkmod": "dev-main",
         "cu-boulder/ucb_migration_shortcodes": "dev-main",
         "cu-boulder/ucb_person_title": "dev-main",
         "cu-boulder/ucb_site_configuration": "dev-main",
