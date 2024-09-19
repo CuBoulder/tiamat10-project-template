@@ -234,7 +234,7 @@
         "codemirror/codemirror": "*",
         "composer/installers": "^2.1",
         "cu-boulder/boulder_base": "20240918",
-        "cu-boulder/boulder_profile": "20240918",
+        "cu-boulder/boulder_profile": "20240919",
         "cu-boulder/express_admin": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_article_author": "dev-main",
