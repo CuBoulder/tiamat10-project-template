@@ -335,7 +335,8 @@
             "cweagans/composer-patches": true,
             "php-http/discovery": true,
             "simplesamlphp/composer-module-installer": true,
-            "simplesamlphp/composer-xmlprovider-installer": true
+            "simplesamlphp/composer-xmlprovider-installer": true,
+            "tbachert/spi": true
         },
         "sort-packages": true
     },
