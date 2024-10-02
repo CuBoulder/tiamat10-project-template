@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Bumping composer version and compser allow required
+  Bumping to latest composer version and adding in required libraries to the composer.json so that updates don't prompt every time to allow.  
+---
+
 - ### Add required module for mega menu
   Closes https://github.com/CuBoulder/tiamat-theme/issues/629.
   Adds the mega menu module to the composer json.
