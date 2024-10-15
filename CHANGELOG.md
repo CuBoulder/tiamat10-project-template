@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Update composer.json
+  Add jsonapi_extras to accommodate ucb_focal_image_enable
+  
+  Resolves #57 
+---
+
 - ### Bumping composer version and compser allow required
   Bumping to latest composer version and adding in required libraries to the composer.json so that updates don't prompt every time to allow.  
 ---
