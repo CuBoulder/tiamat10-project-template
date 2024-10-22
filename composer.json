@@ -315,6 +315,7 @@
         "signature_pad/signature_pad": "*",
         "simplehtmldom/simplehtmldom": "^2.0@RC",
         "simplesamlphp/simplesamlphp": "^2.2",
+        "drupal/redis": "^1.8",
         "tabby/tabby": "*",
         "tippyjs/tippyjs": "*"
     },
