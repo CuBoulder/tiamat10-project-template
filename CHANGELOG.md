@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Adds Article Syndication module
+  The [Article Syndication](https://github.com/CuBoulder/ucb_article_syndication) module is needed in order to migrate the Today site and use the Campus News block with the migrated site (CuBoulder/ucb_campus_news#12). This update adds the module to `composer.json`.
+  
+  There is no sister PR in the profile because the module isn't enabled by default.
+---
+
 - ### Add Redis module
   Add current redis module to composer.
 ---
