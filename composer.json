@@ -240,6 +240,7 @@
         "cu-boulder/ucb_article_author": "dev-main",
         "cu-boulder/ucb_article_syndication": "dev-main",
         "cu-boulder/ucb_bootstrap_layouts": "dev-main",
+        "cu-boulder/ucb_campus_map": "dev-main",
         "cu-boulder/ucb_campus_news": "dev-main",
         "cu-boulder/ucb_ckeditor_plugins": "dev-main",
         "cu-boulder/ucb_custom_entities": "dev-main",
@@ -294,6 +295,7 @@
         "drupal/rebuild_cache_access": "^1.10",
         "drupal/recaptcha_v3": "^2.0",
         "drupal/redirect": "^1.8",
+        "drupal/redis": "^1.8",
         "drupal/responsive_preview": "^2.1",
         "drupal/scheduler": "^2.0",
         "drupal/shortcode": "2.0.2",
@@ -316,7 +318,6 @@
         "signature_pad/signature_pad": "*",
         "simplehtmldom/simplehtmldom": "^2.0@RC",
         "simplesamlphp/simplesamlphp": "^2.2",
-        "drupal/redis": "^1.8",
         "tabby/tabby": "*",
         "tippyjs/tippyjs": "*"
     },
