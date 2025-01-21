@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Updating to Drupal 10.4 
+  Update to Drupal 10.4 and Composer 2.8.5 
+---
+
 - ### Adds Article Syndication module
   The [Article Syndication](https://github.com/CuBoulder/ucb_article_syndication) module is needed in order to migrate the Today site and use the Campus News block with the migrated site (CuBoulder/ucb_campus_news#12). This update adds the module to `composer.json`.
   
