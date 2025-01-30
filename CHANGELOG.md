@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### #65 Updates Linkit Contrib Module
+  Updates Linkit from 6.1 to 7.0
+  
+  Resolves https://github.com/CuBoulder/tiamat10-project-template/issues/65
+---
+
 - ### Updating to Drupal 10.4 
   Update to Drupal 10.4 and Composer 2.8.5 
 ---
