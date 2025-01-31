@@ -9,6 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Adds Trash module
+  Gives Site Manager roles and up the ability to restore deleted content
+  
+  Includes:
+  - `profile` => https://github.com/CuBoulder/tiamat10-profile/pull/251
+  - `template` => https://github.com/CuBoulder/tiamat10-project-template/pull/71
+  
+  Resolves https://github.com/CuBoulder/tiamat10-profile/issues/250
+---
+
 - ### #65 Updates Linkit Contrib Module
   Updates Linkit from 6.1 to 7.0
   

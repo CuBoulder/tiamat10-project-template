@@ -301,6 +301,7 @@
         "drupal/simple_sitemap": "^4.1",
         "drupal/simplesamlphp_auth": "^4.0",
         "drupal/smtp": "^1.0",
+        "drupal/trash": "^3.0",
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
         "drush/drush": "^12.1",
