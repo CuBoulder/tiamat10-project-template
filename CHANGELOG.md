@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Updating google_cse to version 5.0
+  Resolves #66 
+---
+
 - ### Adds Trash module
   Gives Site Manager roles and up the ability to restore deleted content
   
