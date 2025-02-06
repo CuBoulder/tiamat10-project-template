@@ -268,6 +268,7 @@
         "drupal/core-project-message": "~10.4.0",
         "drupal/core-recommended": "~10.4.0",
         "drupal/entity_embed": "^1.1",
+        "drupal/entity_usage": "^2.0@beta",
         "drupal/externalauth": "^2.0",
         "drupal/features": "^3.13",
         "drupal/field_group": "^3.1",
