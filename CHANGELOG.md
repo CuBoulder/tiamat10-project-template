@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Update to add entity_usage module
+  Addition of `entity_usage` so that `paragraphs_library` can be used.
+---
+
 - ### Updating google_cse to version 5.0
   Resolves #66 
 ---
