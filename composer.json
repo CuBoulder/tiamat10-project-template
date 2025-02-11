@@ -304,6 +304,7 @@
         "drupal/smtp": "^1.0",
         "drupal/trash": "^3.0",
         "drupal/twig_tweak": "^3.1",
+        "drupal/unpublished_404": "^2.0",
         "drupal/webform": "^6.2",
         "drush/drush": "^12.1",
         "jquery/inputmask": "*",
