@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Update composer.json to have unpublished 404 module
+  Add unpublished 404 module
+  
+  Sister PR: https://github.com/CuBoulder/tiamat10-profile/pull/259
+---
+
 - ### Update to add entity_usage module
   Addition of `entity_usage` so that `paragraphs_library` can be used.
 ---
