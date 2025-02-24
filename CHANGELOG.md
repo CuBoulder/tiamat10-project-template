@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Update composer.json
+  Addition of Klaro! to install template
+  
+  Sister PR: https://github.com/CuBoulder/tiamat-theme/pull/1607
+  Sister PR: https://github.com/CuBoulder/tiamat10-profile/pull/263
+---
+
 - ### Update composer.json to have unpublished 404 module
   Add unpublished 404 module
   
