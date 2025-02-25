@@ -41,16 +41,6 @@
                 "license": "MIT"
             }
         },
-        "type": "package",
-        "package": {
-            "name": "enyo/dropzone",
-            "version": "5.9.3",
-            "type": "drupal-library",
-            "dist": {
-                "url": "https://github.com/dropzone/dropzone/releases/download/v5.9.3/dist.zip",
-                "type": "zip"
-            }
-        },
         "jquery.inputmask": {
             "type": "package",
             "package": {
@@ -161,6 +151,18 @@
                     "type": "tar"
                 },
                 "license": "MIT"
+            }
+        },
+        "dropzonejs": {
+            "type": "package",
+            "package": {
+                "name": "enyo/dropzone",
+                "version": "5.9.3",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/dropzone/dropzone/releases/download/v5.9.3/dist.zip",
+                    "type": "zip"
+                }
             }
         },
         "progress-tracker": {
