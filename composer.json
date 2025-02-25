@@ -153,6 +153,18 @@
                 "license": "MIT"
             }
         },
+        "dropzonejs": {
+            "type": "package",
+            "package": {
+                "name": "enyo/dropzone",
+                "version": "5.9.3",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/dropzone/dropzone/releases/download/v5.9.3/dist.zip",
+                    "type": "zip"
+                }
+            }
+        },
         "progress-tracker": {
             "type": "package",
             "package": {
@@ -224,8 +236,8 @@
                 "version": "0.5.0",
                 "type": "drupal-library",
                 "dist": {
-                "url": "https://registry.npmjs.org/@northernco/ckeditor5-anchor-drupal/-/ckeditor5-anchor-drupal-0.5.0.tgz",
-                "type": "tar"
+                    "url": "https://registry.npmjs.org/@northernco/ckeditor5-anchor-drupal/-/ckeditor5-anchor-drupal-0.5.0.tgz",
+                    "type": "tar"
                 }
             }
         }
@@ -267,6 +279,7 @@
         "drupal/core-composer-scaffold": "~10.4.0",
         "drupal/core-project-message": "~10.4.0",
         "drupal/core-recommended": "~10.4.0",
+        "drupal/dropzonejs": "^2.11",
         "drupal/entity_embed": "^1.1",
         "drupal/entity_usage": "^2.0@beta",
         "drupal/externalauth": "^2.0",
@@ -300,6 +313,7 @@
         "drupal/responsive_preview": "^2.1",
         "drupal/scheduler": "^2.0",
         "drupal/shortcode": "2.0.2",
+        "drupal/simple_media_bulk_upload": "^2.0",
         "drupal/simple_sitemap": "^4.1",
         "drupal/simplesamlphp_auth": "^4.0",
         "drupal/smtp": "^1.0",
@@ -308,6 +322,7 @@
         "drupal/unpublished_404": "^2.0",
         "drupal/webform": "^6.2",
         "drush/drush": "^12.1",
+        "enyo/dropzone": "^5.9",
         "jquery/inputmask": "*",
         "jquery/intl-tel-input": "*",
         "jquery/rateit": "*",
