@@ -41,6 +41,16 @@
                 "license": "MIT"
             }
         },
+        "type": "package",
+        "package": {
+            "name": "enyo/dropzone",
+            "version": "5.9.3",
+            "type": "drupal-library",
+            "dist": {
+                "url": "https://github.com/dropzone/dropzone/releases/download/v5.9.3/dist.zip",
+                "type": "zip"
+            }
+        },
         "jquery.inputmask": {
             "type": "package",
             "package": {
@@ -224,8 +234,8 @@
                 "version": "0.5.0",
                 "type": "drupal-library",
                 "dist": {
-                "url": "https://registry.npmjs.org/@northernco/ckeditor5-anchor-drupal/-/ckeditor5-anchor-drupal-0.5.0.tgz",
-                "type": "tar"
+                    "url": "https://registry.npmjs.org/@northernco/ckeditor5-anchor-drupal/-/ckeditor5-anchor-drupal-0.5.0.tgz",
+                    "type": "tar"
                 }
             }
         }
@@ -307,6 +317,7 @@
         "drupal/twig_tweak": "^3.1",
         "drupal/unpublished_404": "^2.0",
         "drupal/webform": "^6.2",
+        "drupal/simple_media_bulk_upload": "^2.0",
         "drush/drush": "^12.1",
         "jquery/inputmask": "*",
         "jquery/intl-tel-input": "*",
