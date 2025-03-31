@@ -5,3 +5,11 @@
 composer.lock
 vendor/
 web/
+
+
+# Ignore sensitive DDEV files or temporary files
+.ddev/.gitignore
+.ddev/db_snapshots/
+.ddev/sequelpro.spf
+.ddev/.global_commands
+.ddev/import.yaml
