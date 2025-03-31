@@ -13,7 +13,7 @@ vendor/
 .ddev/sequelpro.spf
 .ddev/.global_commands
 .ddev/import.yaml
-.ddev/traefik/certs/
+.ddev/traefik/
 
 
 # Root-level .gitignore
