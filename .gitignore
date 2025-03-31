@@ -4,7 +4,7 @@
 # Composer / Drupal install files
 composer.lock
 vendor/
-web/
+/web/
 
 
 # Ignore sensitive DDEV files or temporary files
@@ -13,3 +13,7 @@ web/
 .ddev/sequelpro.spf
 .ddev/.global_commands
 .ddev/import.yaml
+
+# Root-level .gitignore
+!.ddev/commands/web/install-site
+!.ddev/commands/web/*
