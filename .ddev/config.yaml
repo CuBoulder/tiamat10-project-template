@@ -1,4 +1,4 @@
-name: ddevtest
+name: tiamat10-test
 type: drupal10
 docroot: web
 php_version: "8.3"
@@ -13,7 +13,6 @@ use_dns_when_possible: true
 composer_version: "2"
 web_environment: []
 corepack_enable: false
-performance_mode: "none" # mutagen support, just remove this line to enable
 
 # Key features of DDEV's config.yaml:
 
