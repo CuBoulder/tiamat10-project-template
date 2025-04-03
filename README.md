@@ -19,7 +19,11 @@ ddev composer install   # will pull in all the modules
 
 ddev install-site       # will run a `site-install` script, located .ddev/commands/web/install-site
 
-ddev describe           # will return endpoints
+ddev describe           # will return the urls for your project, in addition to other info
+
+ddev poweroff           # shuts the container down
+ddev delete -Oy         # destroys the container, without backing up the database. You can remove the flags to create a backup if you wish
+
 
 ````
 
