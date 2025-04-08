@@ -307,7 +307,7 @@
         "drupal/twig_tweak": "^3.1",
         "drupal/unpublished_404": "^2.0",
         "drupal/webform": "^6.2",
-        "drush/drush": "^12.1",
+        "drush/drush": "^13.5",
         "jquery/inputmask": "*",
         "jquery/intl-tel-input": "*",
         "jquery/rateit": "*",
