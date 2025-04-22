@@ -2,7 +2,7 @@
 Starting place for development and testing of the Drupal 10 version of Web Express.
 
 ## Installation
-```
+```bash
 composer -v             # verify that you have have composer 2.x installed
 
 composer self-update    # update composer to the latest version (if necessary)
@@ -23,8 +23,6 @@ ddev describe           # will return the urls for your project, in addition to 
 
 ddev poweroff           # shuts the container down
 ddev delete -Oy         # destroys the container, without backing up the database. You can remove the flags to create a backup if you wish
-
-
 ```
 
 ### Updating this repository
