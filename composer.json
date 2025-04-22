@@ -332,6 +332,12 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Drupal\\ckeditor5_bootstrap_accordion\\": "web/modules/custom/ckeditor5_bootstrap_accordion/src/",
+            "Drupal\\ckeditor5_icons\\": "web/modules/custom/ckeditor5_icons/src/"
+        }
+    },
     "config": {
         "allow-plugins": {
             "composer/installers": true,
