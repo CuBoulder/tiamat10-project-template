@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### #79 - Update Drush
+  Resolves #79 
+---
+
 - ### Update composer.json
   Addition of Klaro! to install template
   
