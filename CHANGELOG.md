@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Switches template from lando to ddev, Adds Autoloader overrides
+  - Changes development template environment from lando to ddev
+  
+  - Adds autoloader overrides to `composer.json`, needed for #77 ,  #78 
+---
+
 - ### #79 - Update Drush
   Resolves #79 
 ---

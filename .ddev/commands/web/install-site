@@ -1,0 +1,17 @@
+#!/bin/bash
+
+set -e
+
+echo yes | vendor/bin/drush si boulder_profile \
+  --db-url="mysql://db:db@db:3306/db" \
+  --site-name="Web Express D10 Test Site" \
+  --account-name="admin" \
+  --account-pass="tiamat.test" \
+  install_configure_form.enable_update_status_module=NULL \
+  install_configure_form.enable_update_status_emails=NULL
+
+vendor/bin/drush pmu simplesamlphp_auth -y
+
+echo -e "\nLogin with Username: admin\nPassword: tiamat.test"
+echo -e "Site URL: ${DDEV_PRIMARY_URL}\n"
+
