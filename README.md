@@ -7,13 +7,11 @@ composer -v             # verify that you have have composer 2.x installed
 
 composer self-update    # update composer to the latest version (if necessary)
 
-git clone <project-name> # You will need to match the <project-name> with a later field
+git clone <project-name> # This will become the name of your containers (ddev-<project-name>)
 
 cd <project-name>
 
-open .ddev/config.yaml and replace the name value on line 1 with the same <project-name>
-
-ddev start              # will spin up the containers
+ddev start              # will spin up the containers: ddev-<project-name>
 
 ddev composer install   # will pull in all the modules
 
