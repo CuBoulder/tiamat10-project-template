@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Updating Drupal core to 10.5
+  Updating drupal core to 10.5 - resolves #84 
+---
+
 - ### #82 - Remove name from config.yaml, update README
   Removes the `name` key from `.ddev/config.yaml` so that the project will take the name of the directory it's in, which should help to avoid mutagen caching conflicts. Updates the Installation Instructions in our README.md to reflect this setup change. 
   
