@@ -255,6 +255,8 @@
         "cu-boulder/ucb_styled_block": "dev-main",
         "cu-boulder/ucb_third_party_libraries": "dev-main",
         "cu-boulder/ucb_user_invite": "dev-main",
+        "cu-boulder/ucb_trust_schema": "dev-main",
+        "cu-boulder/ucb_trusted_content_discovery": "dev-main",
         "cweagans/composer-patches": "^1.7",
         "drupal/admin_toolbar": "^3.4",
         "drupal/administerusersbyrole": "^3.4",

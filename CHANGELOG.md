@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Trust and Discovery Modules
+  Add the CU trust and discovery modules to the required modules list for install and update
+---
+
 - ### Adds diff module
   Adds the diff module to template
   
